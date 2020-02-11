@@ -11,9 +11,11 @@
     "styleguide:build": "vue-cli-service styleguidist:build"
   },
   "dependencies": {
+    "@types/animejs": "^3.1.0",
     "@types/body-scroll-lock": "^2.6.1",
     "@types/hammerjs": "^2.0.36",
     "@types/swiper": "^5.2.0",
+    "animejs": "^3.1.0",
     "axios": "^0.19.2",
     "body-scroll-lock": "^2.6.4",
     "core-js": "^3.4.4",
