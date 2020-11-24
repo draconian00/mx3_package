@@ -22,6 +22,7 @@
     "axios": "^0.19.2",
     "body-scroll-lock": "^2.6.4",
     "core-js": "^3.6.4",
+    "dayjs": "^1.9.6",
     "hammerjs": "^2.0.8",
     "jsbarcode": "^3.11.0",
     "lodash": "^4.17.20",
