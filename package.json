@@ -27,6 +27,7 @@
     "jsbarcode": "^3.11.0",
     "lodash": "^4.17.20",
     "moment": "^2.24.0",
+    "portal-vue": "^2.1.7",
     "qrcode": "^1.4.4",
     "swiper": "^5.3.6",
     "typed.js": "^2.0.11",
@@ -42,15 +43,15 @@
     "vuex-class": "^0.3.2"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.2.3",
-    "@vue/cli-plugin-router": "^4.2.3",
-    "@vue/cli-plugin-typescript": "^4.2.3",
-    "@vue/cli-plugin-vuex": "^4.2.3",
-    "@vue/cli-service": "^4.2.3",
+    "@vue/cli-plugin-babel": "^4.5.11",
+    "@vue/cli-plugin-router": "^4.5.11",
+    "@vue/cli-plugin-typescript": "^4.5.11",
+    "@vue/cli-plugin-vuex": "^4.5.11",
+    "@vue/cli-service": "^4.5.11",
     "node-sass": "^4.14.1",
     "sass-loader": "^8.0.2",
     "typescript": "~3.5.3",
-    "vue-cli-plugin-styleguidist": "^4.13.1",
-    "vue-template-compiler": "^2.6.10"
+    "vue-cli-plugin-styleguidist": "^4.35.0",
+    "vue-template-compiler": "^2.6.12"
   }
 }
